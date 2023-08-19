@@ -2,17 +2,13 @@ TASK 3 : IRIS FLOWER CLASSIFICATION
 
 Problem statement:
 The Iris flower dataset consists of three species: setosa, versicolor, and virginica. These species can be distinguished based on their
-measurements. Now, imagine that you have the measurementsof Iris flowers categorized by their respective species.
+measurements. Now, imagine that you have the measurements of Iris flowers categorized by their respective species.
 
 1.Your objective is to train a machine learning model that can learn from these measurements and accurately classify the Iris flowers into
 their respective species.
 2.Use the Iris dataset to develop a model that can classify iris flowers into different species based on their sepal and petal
 measurements. This dataset is widely used for introductory classification tasks. 
 
-Work Flow
-1.Data loading
-2.Data pre-processing
-3.Exploratory Data analysis
-4.Spliting training and test data
-5.Model training -Logistic Regression
-6.Model Evaluation
+Workflow:
+This dataset became a typical test case for many statistical classification techniques in machine learning such as support vector machines
+The dataset contains a set of 150 records under 5 attributes - Petal Length, Petal Width, Sepal Length, Sepal width and Class(Species).
