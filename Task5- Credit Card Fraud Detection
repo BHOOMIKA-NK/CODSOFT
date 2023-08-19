@@ -1,1 +1,15 @@
+Credit Card Fraud Detection
 
+Task 05 : Problem Statement:
+1.Build a machine learning model to identify fradulent credit card transactions.
+2.Preprocess and normalize the transaction data, handle class inbalance issues, and split the dataset into training and testing sets.
+3.Train a classification algorithm,such as logistic regression or random forests to classify transactions as fraudelent or genuine.
+4.Evaluate the model's performance using metrics like precision, recall, and f1-score and cosider techniques like oversampling or undersampling for improving results.
+
+Work Flow
+1.Data loading
+2.Data pre-processing
+3.Exploratory Data analysis
+4.Spliting training and test data
+5.Model training -Logistic Regression
+6.Model Evaluation
