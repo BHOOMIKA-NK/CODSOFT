@@ -8,3 +8,11 @@ measurements. Now, imagine that you have the measurementsof Iris flowers categor
 their respective species.
 2.Use the Iris dataset to develop a model that can classify iris flowers into different species based on their sepal and petal
 measurements. This dataset is widely used for introductory classification tasks. 
+
+Work Flow
+1.Data loading
+2.Data pre-processing
+3.Exploratory Data analysis
+4.Spliting training and test data
+5.Model training -Logistic Regression
+6.Model Evaluation
